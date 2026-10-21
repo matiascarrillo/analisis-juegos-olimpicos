@@ -42,6 +42,10 @@ Se investigó la relación entre la cantidad de atletas participantes y las meda
 
 Resultado: Se observó una correlación positiva fuerte, aproximadamente de 0,88, entre ambas variables.
 
+### Visualización de la hipótesis 1
+
+![Relación entre atletas participantes y medallas obtenidas](imagenes/hipotesis_1.png)
+
 H2 — Eficiencia de las delegaciones
 
 Se analizó si los países con mayor cantidad de medallas son necesariamente los que presentan mayor eficiencia, medida mediante la relación entre medallas obtenidas y atletas participantes.
