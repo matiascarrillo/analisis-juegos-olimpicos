@@ -52,11 +52,15 @@ Se analizó si los países con mayor cantidad de medallas son necesariamente los
 
 Resultado: Las delegaciones grandes presentaron, en general, mayor eficiencia. Las delegaciones pequeñas mostraron mayor sensibilidad a las variaciones debido al menor número de participantes.
 
+![Eficiencia según tamaño de delegación](imagenes/hipotesis_2.png)
+
 H3 — Ventaja de la localía
 
 Se evaluó si los países anfitriones obtienen, en promedio, más medallas cuando organizan los Juegos Olímpicos.
 
 Resultado: Los países analizados obtuvieron un promedio aproximado de 36,89 medallas como anfitriones, frente a 20,65 cuando no fueron locales.
+
+![Comparación de medallas como anfitrión y no anfitrión](imagenes/hipotesis_3.png)
 
 📈 Visualizaciones
 
